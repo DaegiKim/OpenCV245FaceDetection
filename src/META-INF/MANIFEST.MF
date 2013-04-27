@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+kr.ac.inha.itlab.daegikim.OpenCV245FaceDetectionTest-Class: kr.ac.inha.itlab.daegikim.OpenCV245FaceDetectionTest
+
